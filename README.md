@@ -29,7 +29,7 @@ are in your path.
 
 To install neicmap:
 
-pip install git+git://github.com/mhearne-usgs/neicmap.git
+pip install git+git://github.com/usgs/neicmap.git
 
 Uninstalling and Updating
 -------------------------
@@ -40,7 +40,7 @@ pip uninstall neicmap
 
 To update:
 
-pip install -U git+git://github.com/mhearne-usgs/neicmap.git
+pip install -U git+git://github.com/usgs/neicmap.git
 
 
 
