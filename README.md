@@ -1,11 +1,11 @@
 Introduction
 ------------
 
-neicmap is one of three Python packages containing code modules extracted from the 
-PAGER (http://earthquake.usgs.gov/earthquakes/pager/) software.  This package  
-contains functions and classes designed to make it easier to read in files in various spatial formats
-(ESRI BIL, GMT NetCDF, ShakeMap grid.xml), read shapefiles, read/write fixed-width formats, and a 
-convenient wrapper around the Python functions for making system calls.  
+neicmap is one of three Python packages containing code modules
+extracted from the PAGER
+(http://earthquake.usgs.gov/earthquakes/pager/) software.  This
+package contains functions for spatial calculations (direction,
+distance) and country code mapping.
 
 Installation and Dependencies
 -----------------------------
