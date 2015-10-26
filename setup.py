@@ -7,6 +7,6 @@ setup(name='neicmap',
       author_email='mhearne@usgs.gov',
       url='',
       packages=['neicmap'],
-      install_requires=['numpy', 'matplotlib', 'scipy'],
+      install_requires=[],
       package_data = {'neicmap':['*.csv']},
 )
